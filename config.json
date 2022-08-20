@@ -1,0 +1,7 @@
+{
+    "url": "127.0.0.1:8080",
+    "username": "admin",
+    "password": "adminadmin",
+    "match": "(-XL0012-)|(Xunlei)|(^7\\.)|(QQDownload)",
+    "date": "60"
+}
