@@ -69,7 +69,7 @@ npm install -g pm2
 
 ```
 cd qBittorrent-ban
-pm2 start main.ts --interpreter="deno" --interpreter-args="run --allow-all"
+pm2 start main.ts --interpreter="deno" --interpreter-args="run --allow-all" --name="qbittorrent-ban"
 ```
 
 开机自启
