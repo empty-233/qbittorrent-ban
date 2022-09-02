@@ -30,7 +30,7 @@ curl -fsSL https://deno.land/x/install/install.sh | sh
 
 ```
 cd qBittorrent-ban
-run --allow-all main.ts
+deno run --allow-all main.ts
 ```
 
 ## 配置文件
