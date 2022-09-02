@@ -12,7 +12,8 @@ qBittorrent 屏蔽客户端，可以自定义需要屏蔽的客户端
 
 ```
 wget https://github.com/shenchous/qBittorrent-ban/archive/refs/heads/main.zip
-unzip qBittorrent-ban
+unzip main.zip
+mv qbittorrent-ban-main qbittorrent-ban
 ```
 
 
